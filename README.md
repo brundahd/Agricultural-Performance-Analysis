@@ -111,8 +111,3 @@ The notebook has been executed end-to-end without errors prior to submission.
 - Aggregated, all-crop correlation analysis can mask genuine crop-specific relationships; a follow-up
   crop-specific or regional regression study is recommended.
 
-## Submission Files
-1. **Agricultural_Performance_Analysis.ipynb** — complete, executed analysis notebook
-2. **requirements.txt** — Python dependencies
-3. **Agricultural_Performance_Analysis_Report.pdf** — detailed project report with embedded charts
-4. **README.md** — this file
